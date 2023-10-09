@@ -1,0 +1,15 @@
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\bin\Debug\net6.0\StudyLinkedList.exe
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\bin\Debug\net6.0\StudyLinkedList.deps.json
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\bin\Debug\net6.0\StudyLinkedList.runtimeconfig.json
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\bin\Debug\net6.0\StudyLinkedList.dll
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\bin\Debug\net6.0\StudyLinkedList.pdb
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\obj\Debug\net6.0\StudyLinkedList.csproj.AssemblyReference.cache
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\obj\Debug\net6.0\StudyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\obj\Debug\net6.0\StudyLinkedList.AssemblyInfoInputs.cache
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\obj\Debug\net6.0\StudyLinkedList.AssemblyInfo.cs
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\obj\Debug\net6.0\StudyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\obj\Debug\net6.0\StudyLinkedList.dll
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\obj\Debug\net6.0\refint\StudyLinkedList.dll
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\obj\Debug\net6.0\StudyLinkedList.pdb
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\obj\Debug\net6.0\StudyLinkedList.genruntimeconfig.cache
+C:\Users\freed\Desktop\Works\CodeStudy\BasicCodeStudy\LinkedList\StudyLinkedList\obj\Debug\net6.0\ref\StudyLinkedList.dll

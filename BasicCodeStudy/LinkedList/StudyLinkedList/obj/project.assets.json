@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\freed\\Desktop\\Works\\CodeStudy\\LinkedList\\StudyLinkedList\\StudyLinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\freed\\Desktop\\Works\\CodeStudy\\BasicCodeStudy\\LinkedList\\StudyLinkedList\\StudyLinkedList.csproj",
       "projectName": "StudyLinkedList",
-      "projectPath": "C:\\Users\\freed\\Desktop\\Works\\CodeStudy\\LinkedList\\StudyLinkedList\\StudyLinkedList.csproj",
+      "projectPath": "C:\\Users\\freed\\Desktop\\Works\\CodeStudy\\BasicCodeStudy\\LinkedList\\StudyLinkedList\\StudyLinkedList.csproj",
       "packagesPath": "C:\\Users\\freed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\freed\\Desktop\\Works\\CodeStudy\\LinkedList\\StudyLinkedList\\obj\\",
+      "outputPath": "C:\\Users\\freed\\Desktop\\Works\\CodeStudy\\BasicCodeStudy\\LinkedList\\StudyLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\freed\\AppData\\Roaming\\NuGet\\NuGet.Config",
